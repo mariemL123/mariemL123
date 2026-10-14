@@ -12,24 +12,30 @@ I'm an intermediate developer building practical software projects with Python, 
 
 ## Featured projects
 
+### FocusBoard — Productivity & Analytics Dashboard
+
+An interactive Streamlit dashboard for exploring task completion, workload by category, and productivity trends. The public demo uses synthetic sample data and can be tried without creating an account.
+
+**Tech:** Python, Streamlit, pandas, Plotly.
+
+[🚀 Open live demo](https://focusboard-w59vexfacjyptb5axohpki.streamlit.app/) · [View source code](https://github.com/mariemL123/Focusboard)
+
 ### OneDoc Dermatologists Scraper
+
 A Python web-scraping project that collects and exports structured directory data for analysis.
 
 **Tech:** Python, web scraping, pandas, Excel exports.
 
 [View repository →](https://github.com/mariemL123/onedoc-dermatologists-scraper)
 
-### Focusboard — Productivity Dashboard
-A productivity dashboard project exploring task tracking, authentication, data persistence, and analytics. This repository is currently private, so its source code is not publicly accessible.
-
-**Tech:** Python, Streamlit, SQLite, pandas, Plotly, scikit-learn.
-
 ### GestClient 360 — CRM Concept
+
 A documented concept for a customer relationship and claims-management platform. The repository currently contains project documentation; the application itself has not yet been implemented.
 
 [View project concept →](https://github.com/mariemL123/GestClient-360---CRM-Gestion-des-R-clamations)
 
 ### Telegram Automation
+
 A starting point for exploring Telegram automation. The repository is currently a documentation scaffold rather than a completed automation application.
 
 [View repository →](https://github.com/mariemL123/Telegram_Automation.)

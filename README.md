@@ -20,6 +20,14 @@ An interactive Streamlit dashboard for exploring task completion, workload by ca
 
 [🚀 Open live demo](https://focusboard-w59vexfacjyptb5axohpki.streamlit.app/) · [View source code](https://github.com/mariemL123/Focusboard)
 
+### AI Document Assistant — AI-Powered PDF Analysis
+
+A deployed web application that extracts text from PDF documents, uses OCR for scanned pages, and generates structured analyses with the OpenAI API.
+
+**Tech:** Python, FastAPI, PyMuPDF, Tesseract OCR, OpenAI API, SQLite, HTML, CSS, JavaScript, Chart.js, Docker.
+
+[🚀 Live Demo](https://ai-document-assistant-79cp.onrender.com/app) · [📖 API Documentation](https://ai-document-assistant-79cp.onrender.com/docs) · [💻 Source Code](https://github.com/mariemL123/AI-Document-Assistant)
+
 ### OneDoc Dermatologists Scraper
 
 A Python web-scraping project that collects and exports structured directory data for analysis.

@@ -20,6 +20,18 @@ An interactive Streamlit dashboard for exploring task completion, workload by ca
 
 [🚀 Open live demo](https://focusboard-w59vexfacjyptb5axohpki.streamlit.app/) · [View source code](https://github.com/mariemL123/Focusboard)
 
+### Saveur & Aroma — Restaurant & Café Web Application
+
+An interactive restaurant and café frontend featuring a multilingual menu, product customization, shopping cart, simulated checkout, and an administration dashboard for demonstrating restaurant management workflows.
+
+**Tech:** React 19, TypeScript, Vite 8, Tailwind CSS 4, Lucide React, Motion, Vercel.
+
+[🚀 Live Demo](https://saveur-arome-restaurant-caf-u94l.vercel.app/) · [💻 Source Code](https://github.com/mariemL123/Saveur-Arome-Restaurant-Caf-) · [📸 Screenshots](https://github.com/mariemL123/Saveur-Arome-Restaurant-Caf-#screenshots)
+
+![Saveur & Aroma homepage](https://raw.githubusercontent.com/mariemL123/Saveur-Arome-Restaurant-Caf-/main/docs/screenshots/01-homepage.png)
+
+> **Demo limitations:** This is a frontend portfolio demonstration. Orders and products are held in client-side state and are not persisted in a production database. Checkout does not process real payments, and administrator authentication is client-side and not suitable for production use.
+
 ### AI Document Assistant — AI-Powered PDF Analysis
 
 A deployed web application that extracts text from PDF documents, uses OCR for scanned pages, and generates structured analyses with the OpenAI API.

@@ -1,8 +1,10 @@
+![Mariem L123 - Python Developer & AI Engineer](assets/github-banner.png)
+
 # Hi, I'm Mariem 👋
 
 **Python Developer | AI & LLM Applications | Backend Development**
 
-I'm an intermediate developer building practical software projects with Python, data tools, automation, and web technologies. I enjoy turning ideas into useful applications, improving code quality, and learning the engineering practices needed to deliver reliable software.
+I'm a Python developer building practical software projects with Python, data tools, automation, and web technologies. I enjoy turning ideas into useful applications, improving code quality, and learning the engineering practices needed to deliver reliable software.
 
 - 🔭 **Currently building:** Python applications, productivity tools, and automation projects.
 - 🌱 **Currently learning:** LLM-powered applications, AI agents, APIs, backend architecture, and asynchronous task processing.

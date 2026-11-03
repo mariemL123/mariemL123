@@ -14,13 +14,13 @@ I'm a Python developer building practical software projects with Python, data to
 
 ## Featured projects
 
-### FocusBoard — Productivity & Analytics Dashboard
+### AI Document Assistant — AI-Powered PDF Analysis
 
-An interactive Streamlit dashboard for exploring task completion, workload by category, and productivity trends. The public demo uses synthetic sample data and can be tried without creating an account.
+A deployed web application that extracts text from PDF documents, uses OCR for scanned pages, and generates structured analyses with the OpenAI API.
 
-**Tech:** Python, Streamlit, pandas, Plotly.
+**Tech:** Python, FastAPI, PyMuPDF, Tesseract OCR, OpenAI API, SQLite, HTML, CSS, JavaScript, Chart.js, Docker.
 
-[🚀 Open live demo](https://focusboard-w59vexfacjyptb5axohpki.streamlit.app/) · [View source code](https://github.com/mariemL123/Focusboard)
+[🚀 Live Demo](https://ai-document-assistant-79cp.onrender.com/app) · [📖 API Documentation](https://ai-document-assistant-79cp.onrender.com/docs) · [💻 Source Code](https://github.com/mariemL123/AI-Document-Assistant)
 
 ### Saveur & Aroma — Restaurant & Café Web Application
 
@@ -33,34 +33,6 @@ An interactive restaurant and café frontend featuring a multilingual menu, prod
 ![Saveur & Aroma homepage](https://raw.githubusercontent.com/mariemL123/Saveur-Arome-Restaurant-Caf-/main/docs/screenshots/01-homepage.png)
 
 > **Demo limitations:** This is a frontend portfolio demonstration. Orders and products are held in client-side state and are not persisted in a production database. Checkout does not process real payments, and administrator authentication is client-side and not suitable for production use.
-
-### AI Document Assistant — AI-Powered PDF Analysis
-
-A deployed web application that extracts text from PDF documents, uses OCR for scanned pages, and generates structured analyses with the OpenAI API.
-
-**Tech:** Python, FastAPI, PyMuPDF, Tesseract OCR, OpenAI API, SQLite, HTML, CSS, JavaScript, Chart.js, Docker.
-
-[🚀 Live Demo](https://ai-document-assistant-79cp.onrender.com/app) · [📖 API Documentation](https://ai-document-assistant-79cp.onrender.com/docs) · [💻 Source Code](https://github.com/mariemL123/AI-Document-Assistant)
-
-### OneDoc Dermatologists Scraper
-
-A Python web-scraping project that collects and exports structured directory data for analysis.
-
-**Tech:** Python, web scraping, pandas, Excel exports.
-
-[View repository →](https://github.com/mariemL123/onedoc-dermatologists-scraper)
-
-### GestClient 360 — CRM Concept
-
-A documented concept for a customer relationship and claims-management platform. The repository currently contains project documentation; the application itself has not yet been implemented.
-
-[View project concept →](https://github.com/mariemL123/GestClient-360---CRM-Gestion-des-R-clamations)
-
-### Telegram Automation
-
-A starting point for exploring Telegram automation. The repository is currently a documentation scaffold rather than a completed automation application.
-
-[View repository →](https://github.com/mariemL123/Telegram_Automation.)
 
 ## Technical Skills
 

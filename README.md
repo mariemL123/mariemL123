@@ -22,6 +22,10 @@ A deployed web application that extracts text from PDF documents, uses OCR for s
 
 [🚀 Live Demo](https://ai-document-assistant-79cp.onrender.com/app) · [📖 API Documentation](https://ai-document-assistant-79cp.onrender.com/docs) · [💻 Source Code](https://github.com/mariemL123/AI-Document-Assistant)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariemL123/AI-Document-Assistant/main/screenshots/01-dashboard.png" alt="AI Document Assistant dashboard" width="900">
+</p>
+
 ### Saveur & Aroma — Restaurant & Café Web Application
 
 An interactive restaurant and café frontend featuring a multilingual menu, product customization, shopping cart, simulated checkout, and an administration dashboard for demonstrating restaurant management workflows.
